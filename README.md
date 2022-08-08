@@ -8,13 +8,12 @@
 
 ## How it works?
 
-[Add details here]
+CoinTracker automatically syncs all crypto into one unified dashboard and helps users see all crypto currency at one place.
 
 
 ## Prerequisite
 
 - Install Docker
-- 
 
 ## Step1 - Clone the repository
 
